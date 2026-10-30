@@ -171,30 +171,6 @@ The application will open in your browser at `http://localhost:8501`.
 
 ---
 
-## Senior Data Science Interview Defense Guide
-
-When discussing this project in a technical or senior data science interview, use the following points to defend your design choices:
-
-### Q1: Why did you compute spatial autocorrelation on incidence rates rather than raw case counts?
-> **Answer**: Running spatial autocorrelation directly on raw case counts commits the classic **spatial population density fallacy**: areas with more people naturally accumulate more raw cases, so Moran's $I$ would simply detect urban population clustering rather than genuine epidemiological transmission. By standardising case counts against ONS mid-year population denominators to obtain incidence rates per 100,000, we isolate the true geographic intensity of disease transmission. Furthermore, we implemented Empirical Bayes rate smoothing to ensure that small-population authorities with few cases do not distort the variance.
-
-### Q2: How did you select the spatial weight matrix ($W$), and how did you handle islands?
-> **Answer**: In spatial econometrics, the choice of $W$ defines the topology of spatial interaction. We implemented both **Queen contiguity** and **$k$-Nearest Neighbours (KNN, $k=5$)**. Queen contiguity reflects shared border interactions, but can isolate geographic islands (such as the Isle of Wight). In our data loader, we implemented an island-reconnection routine that augments Queen contiguity with nearest centroid linkages. We also ran a **sensitivity analysis** across Queen and KNN ($k=3, 5, 8$), demonstrating that Global Moran's $I$ remains stable ($p < 0.001$) regardless of specification, proving our clusters are genuine.
-
-### Q3: What is the difference between Local Moran's I (LISA) and Getis-Ord Gi*?
-> **Answer**: While both identify spatial clustering, they answer subtly different questions:
-> * **LISA** decomposes Global Moran's $I$ into four quadrants (High-High, Low-Low, High-Low, Low-High). It is designed to identify both spatial clusters (homogeneity) and **spatial outliers** (heterogeneity, such as an isolated spark outbreak surrounded by coldspots).
-> * **Getis-Ord $G_i^*$** is a local sum statistic that includes the focal unit ($star=True$). It calculates a standard normal $z$-score indicating whether the local sum of values is significantly higher or lower than expected by chance, directly outputting confidence tiers ($90\%, 95\%, 99\%$) for hot spots and cold spots.
-
-### Q4: How does this project account for the Modifiable Areal Unit Problem (MAUP) and Ecological Fallacy?
-> **Answer**: 
-> * **MAUP**: Surveillance data is aggregated at Upper Tier Local Authority (UTLA) administrative units, which vary in area and population. Scale and zoning effects can alter statistical associations. We explicitly document this limitation and recommend future micro-targeted surveillance at MSOA (Middle Layer Super Output Area) or postcode district level where data governance permits.
-> * **Ecological Fallacy**: Aggregated UTLA-level correlations (e.g. low MMR2 coverage correlating with elevated measles incidence) cannot prove that an individual who contracted measles was unvaccinated. However, in infectious disease dynamics, community herd immunity operates as an ecological-level protective barrier, making area-level coverage directly relevant to transmission risk.
-
-### Q5: What are the public health policy recommendations arising from this surveillance?
-> **Answer**: 
-> 1. **Targeted School-Entry Catch-Up**: The data indicates that over 60% of cases are in children aged $\le 10$ years, heavily concentrated in UTLAs with MMR2 coverage $<80\%$ (e.g. Hackney, Birmingham, Lambeth). Catch-up campaigns should be deployed directly in primary schools in identified High-High LISA clusters.
-> 2. **Mobile Outreach in Urban Deprivation Pockets**: Hotspots correlate strongly with urban deprivation and healthcare access barriers rather than ideological anti-vaccine sentiment alone. Weekend and walk-in community vaccine hubs in High-High clusters provide high return on investment.
 
 ---
 
