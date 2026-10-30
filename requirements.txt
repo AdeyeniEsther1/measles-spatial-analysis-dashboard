@@ -1,0 +1,22 @@
+# Core Data Science & Geospatial Dependencies
+pandas>=2.2.0
+geopandas>=1.0.0
+numpy>=1.26.0
+shapely>=2.0.0
+scipy>=1.12.0
+pyogrio>=0.8.0
+
+# Spatial Econometrics & Autocorrelation (PySAL)
+libpysal>=4.10.0
+esda>=2.5.0
+
+# Interactive Visualization & Web Dashboard
+plotly>=5.20.0
+streamlit>=1.35.0
+
+# Data Ingestion & Quality
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Testing & QA
+pytest>=8.0.0

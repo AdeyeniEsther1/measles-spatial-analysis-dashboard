@@ -1,0 +1,152 @@
+utla_code,utla_name,region_name,population
+E09000001,City of London,London,8600
+E09000002,Barking and Dagenham,London,218900
+E09000003,Barnet,London,395900
+E09000004,Bexley,London,248300
+E09000005,Brent,London,339800
+E09000006,Bromley,London,332800
+E09000007,Camden,London,279500
+E09000008,Croydon,London,390800
+E09000009,Ealing,London,367100
+E09000010,Enfield,London,333800
+E09000011,Greenwich,London,289100
+E09000012,Hackney,London,280900
+E09000013,Hammersmith and Fulham,London,183200
+E09000014,Haringey,London,268600
+E09000015,Harrow,London,261300
+E09000016,Havering,London,262000
+E09000017,Hillingdon,London,310600
+E09000018,Hounslow,London,288200
+E09000019,Islington,London,244500
+E09000020,Kensington and Chelsea,London,143400
+E09000021,Kingston upon Thames,London,168100
+E09000022,Lambeth,London,317700
+E09000023,Lewisham,London,300600
+E09000024,Merton,London,215200
+E09000025,Newham,London,351100
+E09000026,Redbridge,London,310300
+E09000027,Richmond upon Thames,London,195200
+E09000028,Southwark,London,320000
+E09000029,Sutton,London,209600
+E09000030,Tower Hamlets,London,331800
+E09000031,Waltham Forest,London,278400
+E09000032,Wandsworth,London,327500
+E09000033,Westminster,London,204300
+E08000025,Birmingham,West Midlands,1144900
+E08000026,Coventry,West Midlands,345300
+E08000027,Dudley,West Midlands,323500
+E08000028,Sandwell,West Midlands,341900
+E08000029,Solihull,West Midlands,216200
+E08000030,Walsall,West Midlands,284100
+E08000031,Wolverhampton,West Midlands,263700
+E10000028,Staffordshire,West Midlands,876100
+E10000031,Warwickshire,West Midlands,597700
+E10000034,Worcestershire,West Midlands,603700
+E06000019,Herefordshire,West Midlands,187200
+E06000020,Telford and Wrekin,West Midlands,185600
+E06000021,Stoke-on-Trent,West Midlands,258400
+E06000051,Shropshire,West Midlands,323600
+E08000001,Bolton,North West,296000
+E08000002,Bury,North West,193800
+E08000003,Manchester,North West,552000
+E08000004,Oldham,North West,242100
+E08000005,Rochdale,North West,223800
+E08000006,Salford,North West,269900
+E08000007,Stockport,North West,294800
+E08000008,Tameside,North West,231200
+E08000009,Trafford,North West,235100
+E08000010,Wigan,North West,329300
+E08000011,Knowsley,North West,154500
+E08000012,Liverpool,North West,486100
+E08000013,St. Helens,North West,183200
+E08000014,Sefton,North West,279300
+E08000015,Wirral,North West,320200
+E10000017,Lancashire,North West,1235300
+E10000006,Cumbria,North West,498900
+E06000008,Blackburn with Darwen,North West,154800
+E06000009,Blackpool,North West,141100
+E06000006,Halton,North West,128200
+E06000007,Warrington,North West,211000
+E06000049,Cheshire East,North West,398800
+E06000050,Cheshire West and Chester,North West,357200
+E08000032,Bradford,Yorkshire and The Humber,546400
+E08000033,Calderdale,Yorkshire and The Humber,206600
+E08000034,Kirklees,Yorkshire and The Humber,433300
+E08000035,Leeds,Yorkshire and The Humber,812000
+E08000036,Wakefield,Yorkshire and The Humber,353400
+E08000016,Barnsley,Yorkshire and The Humber,244600
+E08000017,Doncaster,Yorkshire and The Humber,308100
+E08000018,Rotherham,Yorkshire and The Humber,265800
+E08000019,Sheffield,Yorkshire and The Humber,556500
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,267000
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,342200
+E06000012,North East Lincolnshire,Yorkshire and The Humber,156900
+E06000013,North Lincolnshire,Yorkshire and The Humber,169700
+E06000014,York,Yorkshire and The Humber,202800
+E10000023,North Yorkshire,Yorkshire and The Humber,615400
+E10000015,Hertfordshire,East of England,1198800
+E10000012,Essex,East of England,1503400
+E10000003,Cambridgeshire,East of England,678600
+E10000022,Norfolk,East of England,916100
+E10000029,Suffolk,East of England,760700
+E10000002,Bedford,East of England,185100
+E06000055,Central Bedfordshire,East of England,294300
+E06000032,Luton,East of England,225300
+E06000033,Southend-on-Sea,East of England,180700
+E06000034,Thurrock,East of England,176000
+E06000031,Peterborough,East of England,215700
+E10000018,Leicestershire,East Midlands,712300
+E10000024,Nottinghamshire,East Midlands,828200
+E10000007,Derbyshire,East Midlands,794600
+E10000019,Lincolnshire,East Midlands,768400
+E06000016,Leicester,East Midlands,368600
+E06000018,Nottingham,East Midlands,323700
+E06000015,Derby,East Midlands,261400
+E06000061,North Northamptonshire,East Midlands,359500
+E06000062,West Northamptonshire,East Midlands,425700
+E06000017,Rutland,East Midlands,41000
+E10000030,Surrey,South East,1203100
+E10000016,Kent,South East,1589100
+E10000014,Hampshire,South East,1400600
+E10000025,Oxfordshire,South East,725300
+E10000004,Buckinghamshire,South East,553100
+E10000032,West Sussex,South East,892300
+E10000011,East Sussex,South East,545800
+E06000042,Milton Keynes,South East,287900
+E06000043,Brighton and Hove,South East,277200
+E06000044,Portsmouth,South East,208300
+E06000045,Southampton,South East,248900
+E06000036,Bracknell Forest,South East,124600
+E06000037,West Berkshire,South East,161400
+E06000038,Reading,South East,174200
+E06000039,Slough,South East,158500
+E06000040,Windsor and Maidenhead,South East,153500
+E06000041,Wokingham,South East,177500
+E06000035,Medway,South East,279800
+E06000046,Isle of Wight,South East,140500
+E06000023,"Bristol, City of",South West,472400
+E06000054,Wiltshire,South West,510400
+E10000013,Gloucestershire,South West,645100
+E10000008,Devon,South West,811600
+E06000052,Cornwall,South West,570300
+E06000059,Dorset,South West,379600
+E06000058,"Bournemouth, Christchurch and Poole",South West,400100
+E06000022,Bath and North East Somerset,South West,193400
+E06000024,North Somerset,South West,216700
+E06000025,South Gloucestershire,South West,290400
+E06000026,Plymouth,South West,264700
+E06000027,Torbay,South West,139300
+E06000030,Swindon,South West,233400
+E10000027,Somerset,South West,571600
+E08000021,Newcastle upon Tyne,North East,300200
+E08000020,Gateshead,North East,196100
+E08000022,North Tyneside,North East,209000
+E08000023,South Tyneside,North East,147800
+E08000024,Sunderland,North East,274200
+E06000047,County Durham,North East,522100
+E06000057,Northumberland,North East,320600
+E06000001,Hartlepool,North East,92300
+E06000002,Middlesbrough,North East,143900
+E06000003,Redcar and Cleveland,North East,136500
+E06000004,Stockton-on-Tees,North East,196600
+E06000005,Darlington,North East,107800

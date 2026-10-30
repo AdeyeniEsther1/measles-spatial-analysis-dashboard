@@ -1,0 +1,152 @@
+utla_code,utla_name,region_name,region_code,cases_2023,cases_2024,cases_2025,cases_2026,total_cases_2023_2026
+E09000001,City of London,London,E12000007,0,1,0,0,1
+E09000002,Barking and Dagenham,London,E12000007,4,38,14,16,72
+E09000003,Barnet,London,E12000007,5,48,17,21,91
+E09000004,Bexley,London,E12000007,1,14,6,8,29
+E09000005,Brent,London,E12000007,6,52,22,28,108
+E09000006,Bromley,London,E12000007,2,19,8,9,38
+E09000007,Camden,London,E12000007,4,42,16,18,80
+E09000008,Croydon,London,E12000007,3,35,15,19,72
+E09000009,Ealing,London,E12000007,5,49,19,23,96
+E09000010,Enfield,London,E12000007,12,64,41,62,179
+E09000011,Greenwich,London,E12000007,3,31,12,14,60
+E09000012,Hackney,London,E12000007,24,112,133,45,314
+E09000013,Hammersmith and Fulham,London,E12000007,3,29,11,12,55
+E09000014,Haringey,London,E12000007,7,58,26,31,122
+E09000015,Harrow,London,E12000007,3,24,9,11,47
+E09000016,Havering,London,E12000007,1,12,5,7,25
+E09000017,Hillingdon,London,E12000007,27,56,18,14,115
+E09000018,Hounslow,London,E12000007,4,34,13,15,66
+E09000019,Islington,London,E12000007,5,41,15,17,78
+E09000020,Kensington and Chelsea,London,E12000007,2,21,8,9,40
+E09000021,Kingston upon Thames,London,E12000007,1,14,5,6,26
+E09000022,Lambeth,London,E12000007,8,178,38,24,248
+E09000023,Lewisham,London,E12000007,4,45,16,18,83
+E09000024,Merton,London,E12000007,2,22,7,9,40
+E09000025,Newham,London,E12000007,6,68,29,32,135
+E09000026,Redbridge,London,E12000007,4,39,14,17,74
+E09000027,Richmond upon Thames,London,E12000007,1,15,4,5,25
+E09000028,Southwark,London,E12000007,6,62,24,26,118
+E09000029,Sutton,London,E12000007,1,16,6,7,30
+E09000030,Tower Hamlets,London,E12000007,21,68,28,20,137
+E09000031,Waltham Forest,London,E12000007,5,47,18,21,91
+E09000032,Wandsworth,London,E12000007,6,152,32,18,208
+E09000033,Westminster,London,E12000007,3,33,12,14,62
+E08000025,Birmingham,West Midlands,E12000005,118,364,52,58,592
+E08000026,Coventry,West Midlands,E12000005,8,34,5,18,65
+E08000027,Dudley,West Midlands,E12000005,4,22,2,12,40
+E08000028,Sandwell,West Midlands,E12000005,9,41,4,24,78
+E08000029,Solihull,West Midlands,E12000005,2,14,1,7,24
+E08000030,Walsall,West Midlands,E12000005,6,28,3,16,53
+E08000031,Wolverhampton,West Midlands,E12000005,7,31,3,17,58
+E10000028,Staffordshire,West Midlands,E12000005,2,11,2,4,19
+E10000031,Warwickshire,West Midlands,E12000005,1,7,1,3,12
+E10000034,Worcestershire,West Midlands,E12000005,1,6,0,2,9
+E06000019,Herefordshire,West Midlands,E12000005,0,2,0,0,2
+E06000020,Telford and Wrekin,West Midlands,E12000005,1,2,1,1,5
+E06000021,Stoke-on-Trent,West Midlands,E12000005,0,0,0,0,0
+E06000051,Shropshire,West Midlands,E12000005,0,0,0,0,0
+E08000001,Bolton,North West,E12000002,1,14,12,10,37
+E08000002,Bury,North West,E12000002,1,8,7,6,22
+E08000003,Manchester,North West,E12000002,3,32,28,24,87
+E08000004,Oldham,North West,E12000002,1,11,10,8,30
+E08000005,Rochdale,North West,E12000002,1,10,8,7,26
+E08000006,Salford,North West,E12000002,1,13,11,9,34
+E08000007,Stockport,North West,E12000002,0,5,4,3,12
+E08000008,Tameside,North West,E12000002,0,6,5,4,15
+E08000009,Trafford,North West,E12000002,0,5,4,3,12
+E08000010,Wigan,North West,E12000002,0,7,5,4,16
+E08000011,Knowsley,North West,E12000002,0,4,3,2,9
+E08000012,Liverpool,North West,E12000002,2,19,17,15,53
+E08000013,St. Helens,North West,E12000002,0,3,2,2,7
+E08000014,Sefton,North West,E12000002,0,4,3,2,9
+E08000015,Wirral,North West,E12000002,0,4,3,2,9
+E10000017,Lancashire,North West,E12000002,3,6,5,4,18
+E10000006,Cumbria,North West,E12000002,0,1,1,0,2
+E06000008,Blackburn with Darwen,North West,E12000002,1,2,2,2,7
+E06000009,Blackpool,North West,E12000002,0,0,0,0,0
+E06000006,Halton,North West,E12000002,0,0,0,0,0
+E06000007,Warrington,North West,E12000002,0,0,0,0,0
+E06000049,Cheshire East,North West,E12000002,0,0,1,0,1
+E06000050,Cheshire West and Chester,North West,E12000002,0,0,0,0,0
+E08000032,Bradford,Yorkshire and The Humber,E12000003,8,48,15,14,85
+E08000033,Calderdale,Yorkshire and The Humber,E12000003,1,10,3,3,17
+E08000034,Kirklees,Yorkshire and The Humber,E12000003,3,24,7,7,41
+E08000035,Leeds,Yorkshire and The Humber,E12000003,7,51,16,15,89
+E08000036,Wakefield,Yorkshire and The Humber,E12000003,1,12,4,3,20
+E08000016,Barnsley,Yorkshire and The Humber,E12000003,1,5,2,2,10
+E08000017,Doncaster,Yorkshire and The Humber,E12000003,2,8,2,2,14
+E08000018,Rotherham,Yorkshire and The Humber,E12000003,1,6,2,2,11
+E08000019,Sheffield,Yorkshire and The Humber,E12000003,5,16,6,5,32
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,E12000003,1,2,1,1,5
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,E12000003,0,1,0,0,1
+E06000012,North East Lincolnshire,Yorkshire and The Humber,E12000003,0,0,0,0,0
+E06000013,North Lincolnshire,Yorkshire and The Humber,E12000003,0,0,0,0,0
+E06000014,York,Yorkshire and The Humber,E12000003,0,1,0,0,1
+E10000023,North Yorkshire,Yorkshire and The Humber,E12000003,0,0,0,0,0
+E10000015,Hertfordshire,East of England,E12000006,4,82,24,28,138
+E10000012,Essex,East of England,E12000006,3,54,16,17,90
+E10000003,Cambridgeshire,East of England,E12000006,2,28,9,8,47
+E10000022,Norfolk,East of England,E12000006,1,19,5,5,30
+E10000029,Suffolk,East of England,E12000006,1,18,5,5,29
+E10000002,Bedford,East of England,E12000006,1,14,4,4,23
+E06000055,Central Bedfordshire,East of England,E12000006,1,12,4,3,20
+E06000032,Luton,East of England,E12000006,2,22,8,7,39
+E06000033,Southend-on-Sea,East of England,E12000006,0,2,1,1,4
+E06000034,Thurrock,East of England,E12000006,0,1,0,0,1
+E06000031,Peterborough,East of England,E12000006,0,0,0,0,0
+E10000018,Leicestershire,East Midlands,E12000004,2,26,6,6,40
+E10000024,Nottinghamshire,East Midlands,E12000004,1,24,5,6,36
+E10000007,Derbyshire,East Midlands,E12000004,1,21,5,5,32
+E10000019,Lincolnshire,East Midlands,E12000004,0,12,3,3,18
+E06000016,Leicester,East Midlands,E12000004,3,38,9,10,60
+E06000018,Nottingham,East Midlands,E12000004,2,27,6,7,42
+E06000015,Derby,East Midlands,E12000004,1,14,3,4,22
+E06000061,North Northamptonshire,East Midlands,E12000004,0,0,1,0,1
+E06000062,West Northamptonshire,East Midlands,E12000004,0,1,0,0,1
+E06000017,Rutland,East Midlands,E12000004,0,0,0,0,0
+E10000030,Surrey,South East,E12000008,2,34,11,8,55
+E10000016,Kent,South East,E12000008,2,31,10,7,50
+E10000014,Hampshire,South East,E12000008,1,22,7,5,35
+E10000025,Oxfordshire,South East,E12000008,1,16,5,4,26
+E10000004,Buckinghamshire,South East,E12000008,1,15,5,4,25
+E10000032,West Sussex,South East,E12000008,0,9,3,2,14
+E10000011,East Sussex,South East,E12000008,0,6,2,1,9
+E06000042,Milton Keynes,South East,E12000008,1,8,3,2,14
+E06000043,Brighton and Hove,South East,E12000008,0,4,1,1,6
+E06000044,Portsmouth,South East,E12000008,0,2,1,0,3
+E06000045,Southampton,South East,E12000008,0,3,1,1,5
+E06000036,Bracknell Forest,South East,E12000008,0,1,0,0,1
+E06000037,West Berkshire,South East,E12000008,0,0,0,0,0
+E06000038,Reading,South East,E12000008,0,0,0,0,0
+E06000039,Slough,South East,E12000008,0,0,0,0,0
+E06000040,Windsor and Maidenhead,South East,E12000008,0,0,0,0,0
+E06000041,Wokingham,South East,E12000008,0,0,0,0,0
+E06000035,Medway,South East,E12000008,0,0,0,0,0
+E06000046,Isle of Wight,South East,E12000008,0,0,0,0,0
+E06000023,"Bristol, City of",South West,E12000009,2,38,47,8,95
+E06000054,Wiltshire,South West,E12000009,1,12,3,2,18
+E10000013,Gloucestershire,South West,E12000009,0,11,2,2,15
+E10000008,Devon,South West,E12000009,0,8,2,2,12
+E06000052,Cornwall,South West,E12000009,0,5,1,1,7
+E06000059,Dorset,South West,E12000009,0,4,1,1,6
+E06000058,"Bournemouth, Christchurch and Poole",South West,E12000009,0,4,1,1,6
+E06000022,Bath and North East Somerset,South West,E12000009,0,3,1,1,5
+E06000024,North Somerset,South West,E12000009,0,2,1,0,3
+E06000025,South Gloucestershire,South West,E12000009,1,2,1,1,5
+E06000026,Plymouth,South West,E12000009,0,0,0,0,0
+E06000027,Torbay,South West,E12000009,0,0,0,0,0
+E06000030,Swindon,South West,E12000009,0,0,0,0,0
+E10000027,Somerset,South West,E12000009,0,0,0,0,0
+E08000021,Newcastle upon Tyne,North East,E12000001,1,18,4,4,27
+E08000020,Gateshead,North East,E12000001,0,7,2,1,10
+E08000022,North Tyneside,North East,E12000001,0,5,1,1,7
+E08000023,South Tyneside,North East,E12000001,0,4,1,1,6
+E08000024,Sunderland,North East,E12000001,0,6,2,1,9
+E06000047,County Durham,North East,E12000001,1,6,1,1,9
+E06000057,Northumberland,North East,E12000001,0,3,1,1,5
+E06000001,Hartlepool,North East,E12000001,0,1,0,0,1
+E06000002,Middlesbrough,North East,E12000001,0,1,0,0,1
+E06000003,Redcar and Cleveland,North East,E12000001,0,0,0,0,0
+E06000004,Stockton-on-Tees,North East,E12000001,0,0,0,0,0
+E06000005,Darlington,North East,E12000001,0,0,0,0,0
